@@ -7,7 +7,7 @@
 - :bulb: I'm a Full Stack Developer from Brazil, I really like technology and science, I always try to learn something every day.
 - :mortar_board:I'm currently studying Software Engineering at Universidade Estácio de Sá.
 - :seedling: I'm on track for learning more about Cloud Architecture.
-- :video_game: In my free time, I spend with my family, play PC and Mobile games, watch TV series and movies, listen to music and read.
+- :video_game: In my free time, I stay with my family, play PC and Mobile games, watch TV series and movies, listen to music and read.
 
 ### :zap: Skills & Tools
 <p align="left">
